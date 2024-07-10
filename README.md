@@ -12,12 +12,19 @@ Fast and easy DNS changer in Windows 🌐
 Tip: If You Want Clear Your DNS, Click 'Reset DNS'
 ## DNS Servers
 1- Electro
+
 2- Shecan
+
 3- 403.online
+
 4- Freenet
+
 5- Cloudflare
+
 6- Google
+
 7- OpenDNS
+
 8- Quad9
 
 ## 🌐
