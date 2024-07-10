@@ -1,5 +1,5 @@
 # DNS Master
-Fast and easy DNS change in Windows 🌐
+Fast and easy DNS changer in Windows 🌐
 ## How To ?
 1- Run 'DNS Master' ( as Administrator)
 
@@ -11,11 +11,14 @@ Fast and easy DNS change in Windows 🌐
 
 Tip: If You Want Clear Your DNS, Click 'Reset DNS'
 ## DNS Servers
-1- [Electro](https://electrotm.org)
-
-2- [Shecan](https://shecan.ir)
-
-3- [403.online](https://403.online/download)
+1- Electro
+2- Shecan
+3- 403.online
+4- Freenet
+5- Cloudflare
+6- Google
+7- OpenDNS
+8- Quad9
 
 ## 🌐
 
